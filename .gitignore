@@ -1,2 +1,6 @@
 .DS_Store
 *.code-workspace
+api_token.txt
+concat.sh
+concat.py
+venv/

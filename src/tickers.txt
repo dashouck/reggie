@@ -1,0 +1,6 @@
+SPY
+AAPL
+AMD
+CMG
+NVDA
+T
