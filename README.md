@@ -1,6 +1,7 @@
-# Reggie — Combating Cognitive Bias in Financial Decision-Making with Regime Detection
+# Reggie — Detecting Market Regimes to Reduce Cognitive Bias in Investment Decisions
 
-Reggie is a research project and interactive tool designed to help retail investors recognize **market regime shifts** and avoid common cognitive biases such as panic selling and fear-driven buying.  
+Reggie is a research project and interactive tool designed to help retail investors recognize **market regime shifts** and avoid common cognitive biases such as panic selling and fear-driven buying. 
+ 
 It combines **Hidden Markov Models (HMMs)** with well-established **technical indicators** to visualize market states and encourage more disciplined decision-making.
 
 ---
@@ -41,6 +42,12 @@ Install dependencies (Python 3.10+ recommended):
 
 ```sh
 pip install -r requirements.txt
+```
+
+Request a free api key from [Tiingo](https://www.tiingo.com/about/pricing) and paste it into the following file:
+
+```sh
+src/api_token.txt
 ```
 
 Run the application (custom Plotly charts):
