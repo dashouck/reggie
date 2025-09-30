@@ -4,3 +4,5 @@ api_token.txt
 concat.sh
 concat.py
 venv/
+__pycache__/
+.matplotlib/
